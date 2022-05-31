@@ -5,15 +5,14 @@
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
-<div align="center">[![Netlify Status](https://api.netlify.com/api/v1/badges/3f5d6c3f-85f2-40c2-a62d-da1ec132f9a6/deploy-status)](https://app.netlify.com/sites/jade-halva-2aa14a/deploys)</div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://jade-halva-2aa14a.netlify.app/)">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/cromone5656/DevChallenges/edit/master/responsiveWebDesigns/404NotFound">
       Solution
     </a>
     <span> | </span>
@@ -22,6 +21,11 @@
     </a>
   </h3>
 </div>
+<div align="center">
+            
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/3f5d6c3f-85f2-40c2-a62d-da1ec132f9a6/deploy-status)](https://app.netlify.com/sites/jade-halva-2aa14a/deploys)</a>
+            
+ </div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -39,7 +43,7 @@
 
 ![screenshot](Assets/Screenshot%202022-05-31%20012537.png)
 
-This was my first dev challenge since starting web development about a week ago. This was also the first project I atempted without a tutorial which was a big step for me. Admittedly this feels messy and convoluted and im not entirely sure how to fix to honest. I used flex box a little to position things and margins and padding to fine tune spacing, which took up the majority of my time. Overall im happy with how it came out and look forward to receiving feedback.
+This was my first dev challenge since starting web development about a week ago. This was also the first project I atempted without a tutorial which was a big step for me. Admittedly this feels messy and convoluted and im not entirely sure how to fix it to be honest. I used flex box a little to position things and margins and padding to fine tune spacing, which took up the majority of my time. Overall im happy with how it came out and look forward to receiving feedback.
 
 ### Built With
 
