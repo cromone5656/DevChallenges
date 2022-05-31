@@ -5,6 +5,7 @@
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
+<div align="center">[![Netlify Status](https://api.netlify.com/api/v1/badges/3f5d6c3f-85f2-40c2-a62d-da1ec132f9a6/deploy-status)](https://app.netlify.com/sites/jade-halva-2aa14a/deploys)</div>
 
 <div align="center">
   <h3>
